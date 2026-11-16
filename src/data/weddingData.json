@@ -1,0 +1,113 @@
+{
+  "primaryColor": "#d4af37",
+  "brandName": "Benjamin & Jasmine",
+  "hero": {
+    "names": [
+      "Benjamin",
+      "Jasmine"
+    ],
+    "subtitle": "request the pleasure of your company",
+    "location": "The Willow Garden Estate • Napa Valley, California"
+  },
+  "HERO_DATA": {
+    "subtitleTop": "Together with their families",
+    "names": "Jasmine & Benjamin",
+    "groomAndBrideFull": "Jasmine Rose Carter & Benjamin Alexander Wilson",
+    "subtitleBottom": "invite you to celebrate their wedding",
+    "dateFormatted": "Monday, September 21, 2026",
+    "dateISO": "2026-09-21",
+    "locationName": "The Willow Garden Estate",
+    "locationRegion": "Napa Valley, California",
+    "tagline": "Two hearts. One love. One beautiful beginning.",
+    "buttonText": "Discover Our Story ↓"
+  },
+  "SCRATCH_REVEAL_DATA": {
+    "sectionTag": "Interactive Save The Date",
+    "heading": "Scratch To Reveal Our Details",
+    "items": [
+      {
+        "id": "day",
+        "label": "The Day",
+        "mainText": "21",
+        "subText": "Monday",
+        "foilLabel": "SCRATCH DAY",
+        "mainClass": "font-script text-5xl sm:text-6xl text-[#3d3226] py-0.5 leading-none"
+      },
+      {
+        "id": "month",
+        "label": "The Month",
+        "mainText": "SEP",
+        "subText": "September",
+        "foilLabel": "SCRATCH MONTH",
+        "mainClass": "font-serif-display text-3xl sm:text-4xl text-[#3d3226] py-0.5 font-medium leading-tight"
+      },
+      {
+        "id": "year",
+        "label": "The Year",
+        "mainText": "2026",
+        "subText": "Two Thousand Twenty Six",
+        "foilLabel": "SCRATCH YEAR",
+        "mainClass": "font-serif-display text-3xl sm:text-4xl text-[#3d3226] py-0.5 font-medium leading-tight"
+      }
+    ]
+  },
+  "COUNTDOWN_DATA": {
+    "sectionTitle": "Counting Down to Forever",
+    "subtitle": "Our biggest adventure begins soon.",
+    "targetDate": "2026-09-21T16:00:00",
+    "bottomText": "We are excited to celebrate this unforgettable day with our family and friends."
+  },
+  "INVITATION_DATA": {
+    "heading": "Together with their families",
+    "brideName": "Jasmine Rose Carter",
+    "groomName": "Benjamin Alexander Wilson",
+    "invitationBody": "request the pleasure of your company as they exchange vows and begin their journey together.",
+    "dateText": "Monday, the twenty-first of September",
+    "yearText": "Two Thousand Twenty-Six",
+    "timeText": "at four o'clock in the afternoon",
+    "venue": "The Willow Garden Estate",
+    "location": "Napa Valley, California",
+    "note": "Dinner, dancing & celebration to follow.",
+    "buttonText": "View Invitation"
+  },
+  "VENUE_DETAILS": {
+    "name": "Atlantis The Palm — Grand Ballroom",
+    "address": "Crescent Road, Palm Jumeirah, Dubai, UAE",
+    "city": "Dubai, United Arab Emirates",
+    "coordinates": {
+      "lat": 25.1304,
+      "lng": 55.1172
+    },
+    "googleMapsUrl": "https://maps.google.com/?q=Atlantis+The+Palm+Dubai",
+    "parkingNote": "Complimentary valet parking is available at the main entrance. Self-parking is also available on-site.",
+    "weatherInfo": "September in Dubai features warm evenings around 33°C (91°F). The ceremony will be held in our fully air-conditioned Grand Ballroom.",
+    "arrivalTime": "Please arrive at least 30 minutes before the ceremony begins.",
+    "accessibility": "The venue is fully wheelchair accessible with dedicated facilities throughout.",
+    "accommodation": "Exclusive room rates are available for wedding guests at Atlantis The Palm. Contact us for the booking code."
+  },
+  "FOOTER_DATA": {
+    "names": "Jasmine & Benjamin",
+    "date": "21 · 09 · 2026",
+    "tagline": "Forever starts with you.",
+    "finalMessage": "Thank you for being part of our story.\nYour love, support, and presence mean the world to us.\nWe look forward to celebrating this unforgettable day together.\n\nWith Love,\nJasmine & Benjamin",
+    "copyright": "© 2026 Jasmine & Benjamin · Made with love for our family and friends.",
+    "quickLinks": [
+      "Home",
+      "Our Story",
+      "Wedding Events",
+      "Gallery",
+      "Venue",
+      "Dress Code"
+    ],
+    "contactInfo": {
+      "email": "hello@ourwedding.com",
+      "phone": "+44 1234 567890"
+    },
+    "socialMedia": [
+      "Instagram",
+      "Facebook",
+      "Pinterest"
+    ]
+  }
+  
+}
